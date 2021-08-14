@@ -1,5 +1,11 @@
 {
-    
+    "name":"jaisondalls/hcode-ecommerce",
+    "authors": [
+        {
+            "name": "Jaison Rodrigo Dallabrida",
+            "email": "jaisondalls@gmail.com"
+        }
+    ],
     "require": {
     	"phpmailer/phpmailer":"5.2.22",
     	"slim/slim":"2.0",
