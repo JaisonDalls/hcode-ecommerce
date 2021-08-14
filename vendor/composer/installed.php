@@ -1,24 +1,24 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => 'dev-master',
-    'version' => 'dev-master',
+    'pretty_version' => 'dev-develop',
+    'version' => 'dev-develop',
     'aliases' => 
     array (
     ),
-    'reference' => '2a10b37d139f17f9bccb42f619eca7f1b6a3f71d',
-    'name' => '__root__',
+    'reference' => '291ea3a67eda8da19526f8112fd638f7514022f3',
+    'name' => 'jaisondalls/hcode-ecommerce',
   ),
   'versions' => 
   array (
-    '__root__' => 
+    'jaisondalls/hcode-ecommerce' => 
     array (
-      'pretty_version' => 'dev-master',
-      'version' => 'dev-master',
+      'pretty_version' => 'dev-develop',
+      'version' => 'dev-develop',
       'aliases' => 
       array (
       ),
-      'reference' => '2a10b37d139f17f9bccb42f619eca7f1b6a3f71d',
+      'reference' => '291ea3a67eda8da19526f8112fd638f7514022f3',
     ),
     'phpmailer/phpmailer' => 
     array (
